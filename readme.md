@@ -1,5 +1,7 @@
 ## Photo Resize Challenge
 
+*** watch the vídeo resize_photo_challenge.mp4!
+
 ### Setup Steps
 
 - Clone this project;
@@ -15,7 +17,7 @@
 
 ### Start server
 - $ php artisan serve
-- open browser or postman and call the url: http://localhost/api/photos
+- open browser or postman and call the url: http://localhost:8000/api/photos
 
 ### Run Tests
 - $ vendor/bin/phpunit
